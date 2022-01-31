@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilsapa
 - 👀 I’m interested in java,react,angular
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning ibm app connect
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me through mail
 
